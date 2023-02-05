@@ -15,3 +15,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  
+  <a href="https://github.com/charlesanderson25">
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesanderson25&count_private=true&show_icons=true&&theme=highcontrast)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesanderson25&theme=highcontrast)](https://github.com/charlesanderson25/github-readme-stats)
+    
+</div>    
+
+  
+<div styke="display: inline_block"><br>  
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Charles-Js" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>  
