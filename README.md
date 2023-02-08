@@ -1,7 +1,7 @@
 ### Olá, sou Charles Anderson 👋
 
 - 🔭 Trabalhando atualmente com análise de dados utilizando ferramentas como: SAS, SQL, PowerBI e Tibco Spotfire
-- 🌱 Estudando atualmente na Infnet no Bootcamp Desenvolvedor Web Full Stack<br><br>
+- 🌱 Estudando na Infnet no Bootcamp Desenvolvedor Web Full Stack<br><br>
 
 <!--
 **charlesanderson25/charlesanderson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
