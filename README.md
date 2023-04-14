@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/charlesanderson25">
     
   ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=charlesanderson25&count_private=true&show_icons=true&&theme=highcontrast)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesanderson25&theme=highcontrast)](https://github.com/charlesanderson25/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charlesanderson25&theme=highcontrast)](https://github.com/charlesanderson25/github-readme-stats)
     
 </div>    
 
