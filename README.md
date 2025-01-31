@@ -2,7 +2,7 @@
 
 - 🔭 Análise de dados com: SAS e SQL
 - 📫 Administração de Banco de Dados com MySQL
-- 👯 Painéis e Dashboards com Power BI
+- 👯 Painéis, Dashboards e Relatórios com Power BI e SAS
 - 🌱 Desenvolvimento Web Full Stack com Javascript, Typescript, React e Node.js <br><br>
 
 <!--
