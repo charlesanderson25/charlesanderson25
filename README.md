@@ -1,6 +1,7 @@
 ### Olá, sou Charles Anderson 👋
 
 - 🔭 Análise de dados com: SAS e SQL
+- 📫 Administração de Banco de Dados com MySQL
 - 👯 Painéis e Dashboards com Power BI
 - 🌱 Desenvolvimento Web Full Stack com Javascript, Typescript, React e Node.js <br><br>
 
